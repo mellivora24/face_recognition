@@ -4,4 +4,3 @@ Hệ thống có các chức năng sau:
   * Có sẵn chương trình lấy hình khuôn mặt, tên và ID của từng người.
   * Update tên, lớp, thời gian điểm danh lên trên Google Spreadsheets tự động.
   * Hệ thống chưa có giao diện, nếu clone từ github hãy dùng PyQt5 (cho dễ).
-Dự án này do mình làm 🇻🇳.
